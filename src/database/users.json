@@ -1,0 +1,82 @@
+[
+    {
+        "userId": 1,
+        "username": "shoh",
+        "parol": "123$Shoh",
+        "gender": "male",
+        "birthday": "2000",
+        "online": true
+    },
+    {
+        "userId": 2,
+        "username": "Shahzod",
+        "parol": "123$Shoh",
+        "gender": "male",
+        "birthday": "2000",
+        "online": true
+    },
+    {
+        "userId": 3,
+        "username": "shohjasurovich",
+        "parol": "123$Shohh",
+        "gender": "male",
+        "birthday": "2000",
+        "online": true
+    },
+    {
+        "userId": 4,
+        "username": "shoh_jasurovich",
+        "parol": "123$Shohhh",
+        "gender": "male",
+        "birthday": "2000",
+        "online": true
+    },
+    {
+        "userId": 5,
+        "username": "sarvar",
+        "parol": "123$Sarvar",
+        "gender": "male",
+        "birthday": "2003",
+        "online": true
+    },
+    {
+        "userId": 6,
+        "username": "kimdir",
+        "parol": "123#Kimdir",
+        "gender": "male",
+        "birthday": "2000",
+        "online": false
+    },
+    {
+        "userId": 7,
+        "username": "nima",
+        "parol": "123#Nima",
+        "gender": "male",
+        "birthday": "1990",
+        "online": true
+    },
+    {
+        "userId": 8,
+        "username": "donishmand",
+        "parol": "AAAaaa@222",
+        "gender": "male",
+        "birthday": "2020",
+        "online": true
+    },
+    {
+        "userId": 9,
+        "username": "setora",
+        "parol": "123Setora$",
+        "gender": "famale",
+        "birthday": "2002",
+        "online": true
+    },
+    {
+        "userId": 10,
+        "username": "kimlardir",
+        "parol": "123Kimdir$",
+        "gender": "male",
+        "birthday": "2000",
+        "online": true
+    }
+]
